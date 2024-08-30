@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3519-find-the-number-of-winning-players](https://github.com/Nishant-271/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3519-find-the-number-of-winning-players](https://github.com/Nishant-271/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
+## Counting
+|  |
+| ------- |
+| [3519-find-the-number-of-winning-players](https://github.com/Nishant-271/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
 <!---LeetCode Topics End-->
