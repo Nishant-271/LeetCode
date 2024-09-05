@@ -5,11 +5,11 @@ class Solution {
         for(char ch:s.toCharArray()){
             if(ch=='E'){
              curr++;
+             max=Math.max(curr,max);
             }
-            if(ch=='L'){
+            else{
              curr--;
             }
-             max=Math.max(curr,max);
         }
         return max;
     }
