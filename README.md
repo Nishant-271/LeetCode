@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishant-271/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0725-split-linked-list-in-parts](https://github.com/Nishant-271/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 ## Tree
 |  |
 | ------- |
