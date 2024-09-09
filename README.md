@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishant-271/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-271/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishant-271/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishant-271/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-271/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-271/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nishant-271/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
