@@ -2,19 +2,6 @@ class Solution {
    static  int maxwidth=Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
        maxwidth=Integer.MIN_VALUE;
-//        if(root.left==null && root.right==null){
-//  return root.val;
-// }
-//        if(root.left==null && root.right!=null){
-//        solve(root.right);
-// }
-//        if(root.left!=null && root.right==null){
-//        solve(root.left);
-// }
-//        if(root.left!=null && root.right!=null){
-//        solve(root);
-// }
-
        solve(root);
 return maxwidth;
 
