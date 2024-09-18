@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Nishant-271/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishant-271/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Nishant-271/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
 ## Array
 |  |
 | ------- |
