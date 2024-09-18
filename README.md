@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Nishant-271/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishant-271/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0725-split-linked-list-in-parts](https://github.com/Nishant-271/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Nishant-271/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Nishant-271/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Nishant-271/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Array
 |  |
 | ------- |
