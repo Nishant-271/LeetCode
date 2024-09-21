@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Nishant-271/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Heap (Priority Queue)
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nishant-271/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Nishant-271/LeetCode/tree/master/0134-gas-station) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
