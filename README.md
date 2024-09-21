@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
