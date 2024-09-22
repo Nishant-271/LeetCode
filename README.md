@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Nishant-271/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Nishant-271/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
