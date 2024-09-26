@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
 | [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/Nishant-271/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
 ## Binary Tree
@@ -269,4 +271,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nishant-271/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
