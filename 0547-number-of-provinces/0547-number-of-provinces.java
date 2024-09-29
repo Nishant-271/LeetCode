@@ -1,6 +1,10 @@
 class Solution {
     public int findCircleNum(int[][] edges) {
        int n=edges.length;
+    // by without hashmap
+   
+      /* 
+//   by hashmap 
         HashMap<Integer,List<Integer>> map=new HashMap<>();
        for(int i=0;i<n;i++){
            for(int j=0;j<n;j++){
@@ -17,11 +21,12 @@ class Solution {
             map.get(j).add(i);
            }
         }}
-        int count=0;
+        */
+   int count=0;
    boolean visited[]=new boolean[n];
    for(int u=0;u<n;u++){
     if(!visited[u]){
-        dfs(map,visited,u);
+        dfs(edges,visited,u);
         count++;
     }
    }
@@ -29,14 +34,12 @@ class Solution {
 return count;
     }
 
-    public static void dfs(HashMap<Integer,List<Integer>> map,boolean visited[],int start){
-        visited[start]=true;
-        if(map.containsKey(start)){
-            for(int nn:map.get(start)){
-                if(!visited[nn]){
-                    dfs(map,visited,nn);
-                }
-            }
-        }
+    public static void dfs(int[][]edges,boolean visited[],int u){
+        visited[u]=true;
+       for(int v=0;v<edges.length;v++){
+           if(!visited[v] && edges[u][v]==1){
+            dfs(edges,visited,v);
+           }
+       }
     }
 }
