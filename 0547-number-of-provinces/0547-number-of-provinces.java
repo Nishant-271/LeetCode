@@ -22,7 +22,9 @@ public static void bfs(int [][]mat,boolean visited[],int u){
      int node=q.remove();
   for(int v=0;v<mat.length;v++){
      if(!visited[v] && mat[node][v]==1){
-        bfs(mat,visited,v);
+        // bfs(mat,visited,v);
+           visited[v] = true; // Mark v as visited
+                q.add(v); //
      }
   }
 }
