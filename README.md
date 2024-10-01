@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Nishant-271/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nishant-271/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nishant-271/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nishant-271/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nishant-271/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Nishant-271/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nishant-271/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nishant-271/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Nishant-271/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nishant-271/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
