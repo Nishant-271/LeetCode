@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-271/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/Nishant-271/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0933-increasing-order-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
+| [0367-valid-perfect-square](https://github.com/Nishant-271/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nishant-271/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
