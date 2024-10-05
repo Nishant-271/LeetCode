@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Nishant-271/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Nishant-271/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
 ## Binary Tree
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nishant-271/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Nishant-271/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Nishant-271/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nishant-271/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nishant-271/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Nishant-271/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Stack
 |  |
 | ------- |
