@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nishant-271/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/Nishant-271/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nishant-271/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3567-convert-date-to-binary](https://github.com/Nishant-271/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Prefix Sum
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nishant-271/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nishant-271/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/Nishant-271/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Brainteaser
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Nishant-271/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nishant-271/LeetCode/tree/master/0134-gas-station) |
+| [3195-separate-black-and-white-balls](https://github.com/Nishant-271/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
 | ------- |
