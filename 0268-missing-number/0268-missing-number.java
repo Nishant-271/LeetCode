@@ -1,18 +1,10 @@
 class Solution {
-    public int missingNumber(int[] nums) {
+    public int missingNumber(int[] nums) { 
         int n=nums.length;
-        for(int i=1;i<=n;i++){
-         boolean flag=false;
-         for(int j=0;j<nums.length;j++){
-               if(nums[j]==i){
-                flag=true;
-
-               } 
-         }
-         if(flag==false){
-            return i;
-         }
-        }
-        return 0;
+        int sum1=n*(n+1)/2; int sum2=0;
+        for(int i:nums){
+        sum2+=i;
+        }  
+        return sum1-sum2;
     }
 }
