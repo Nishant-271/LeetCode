@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Nishant-271/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nishant-271/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/Nishant-271/LeetCode/tree/master/0670-maximum-swap) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Nishant-271/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nishant-271/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Nishant-271/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nishant-271/LeetCode/tree/master/0134-gas-station) |
+| [0670-maximum-swap](https://github.com/Nishant-271/LeetCode/tree/master/0670-maximum-swap) |
 | [3195-separate-black-and-white-balls](https://github.com/Nishant-271/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
