@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Nishant-271/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Nishant-271/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Nishant-271/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Nishant-271/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Nishant-271/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nishant-271/LeetCode/tree/master/0274-h-index) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nishant-271/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-271/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Nishant-271/LeetCode/tree/master/0371-sum-of-two-integers) |
