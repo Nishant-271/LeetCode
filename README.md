@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Nishant-271/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Nishant-271/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Nishant-271/LeetCode/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/Nishant-271/LeetCode/tree/master/0383-ransom-note) |
