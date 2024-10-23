@@ -39,9 +39,9 @@ class Solution {
         currlength++;
         last_smaller=nums[i];
     }
-    // else if(nums[i]==last_smaller){
-    //     continue;
-    // }
+    else if(nums[i]==last_smaller){
+        continue;
+    }
     else if(last_smaller!=nums[i]){
         currlength=1;
         last_smaller=nums[i];
