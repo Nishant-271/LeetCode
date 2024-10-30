@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Nishant-271/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nishant-271/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nishant-271/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nishant-271/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Nishant-271/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nishant-271/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0933-increasing-order-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nishant-271/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nishant-271/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nishant-271/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishant-271/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nishant-271/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nishant-271/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nishant-271/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nishant-271/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nishant-271/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nishant-271/LeetCode/tree/master/0134-gas-station) |
 | [0670-maximum-swap](https://github.com/Nishant-271/LeetCode/tree/master/0670-maximum-swap) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nishant-271/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [3195-separate-black-and-white-balls](https://github.com/Nishant-271/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
