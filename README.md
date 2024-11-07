@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Nishant-271/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Nishant-271/LeetCode/tree/master/0670-maximum-swap) |
+| [1086-divisor-game](https://github.com/Nishant-271/LeetCode/tree/master/1086-divisor-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Nishant-271/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nishant-271/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Nishant-271/LeetCode/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Nishant-271/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Nishant-271/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-271/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishant-271/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1086-divisor-game](https://github.com/Nishant-271/LeetCode/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nishant-271/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nishant-271/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Nishant-271/LeetCode/tree/master/1086-divisor-game) |
 ## Trie
 |  |
 | ------- |
