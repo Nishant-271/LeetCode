@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/Nishant-271/LeetCode/tree/master/3451-string-compression-iii) |
 | [3567-convert-date-to-binary](https://github.com/Nishant-271/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/Nishant-271/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3636-check-balanced-string](https://github.com/Nishant-271/LeetCode/tree/master/3636-check-balanced-string) |
 ## Prefix Sum
 |  |
 | ------- |
