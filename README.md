@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Nishant-271/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Nishant-271/LeetCode/tree/master/0441-arranging-coins) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Nishant-271/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0933-increasing-order-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0933-increasing-order-search-tree) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Nishant-271/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nishant-271/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/Nishant-271/LeetCode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Nishant-271/LeetCode/tree/master/0670-maximum-swap) |
 | [1086-divisor-game](https://github.com/Nishant-271/LeetCode/tree/master/1086-divisor-game) |
