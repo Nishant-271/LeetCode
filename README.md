@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/Nishant-271/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Nishant-271/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishant-271/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nishant-271/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Divide and Conquer
 |  |
 | ------- |
