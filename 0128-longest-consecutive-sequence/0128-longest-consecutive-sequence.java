@@ -49,25 +49,25 @@ class Solution {
 
 //    OPTIMAL SOLUTION USING HASHMAP WITHOUT SORTING ::
     public int longestConsecutive(int[] nums) {
-        HashSet<Integer> set=new HashSet<>();
-        int max=0;
-        for(int i:nums){
-            set.add(i);
-        }
-      for(int i:set){
-        if(!set.contains(i-1)){
+
+      HashSet<Integer> set=new HashSet<>();
+      for(int i:nums){
+        set.add(i);
+      }
+      int max=0;
+      for(int it:set){
+        if(!set.contains(it-1)){
             int count=1;
-            int x=i;
+            int x=it;
             while(set.contains(x+1)){
                 x=x+1;
                 count++;
             }
-            max=Math.max(count,max);
+          max=Math.max(count,max);
         }
-
       }
-return max;
 
+return max;
     }
 
 
