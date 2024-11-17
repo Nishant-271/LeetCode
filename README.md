@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Nishant-271/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishant-271/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Nishant-271/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nishant-271/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishant-271/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Nishant-271/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nishant-271/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nishant-271/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Nishant-271/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nishant-271/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-271/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Stack
 |  |
 | ------- |
@@ -467,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nishant-271/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
