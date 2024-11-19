@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nishant-271/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Nishant-271/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Nishant-271/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Nishant-271/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nishant-271/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nishant-271/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nishant-271/LeetCode/tree/master/0055-jump-game) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nishant-271/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nishant-271/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nishant-271/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Nishant-271/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nishant-271/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/Nishant-271/LeetCode/tree/master/1791-richest-customer-wealth) |
