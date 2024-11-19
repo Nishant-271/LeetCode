@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nishant-271/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Nishant-271/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nishant-271/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Nishant-271/LeetCode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nishant-271/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Nishant-271/LeetCode/tree/master/0283-move-zeroes) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Nishant-271/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-271/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishant-271/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/Nishant-271/LeetCode/tree/master/0198-house-robber) |
 | [1086-divisor-game](https://github.com/Nishant-271/LeetCode/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nishant-271/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
