@@ -1,5 +1,7 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
+        // BRUTE FORCE 
+
         int count=0;
         for(int i=0;i<nums.length;i++){
             int sum=0;
@@ -8,6 +10,7 @@ class Solution {
                 if(sum==k) count++;
             }
         }
-    return count;
+
+return count;
     }
 }
