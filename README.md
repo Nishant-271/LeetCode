@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Nishant-271/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Nishant-271/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/Nishant-271/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/Nishant-271/LeetCode/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nishant-271/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nishant-271/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nishant-271/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nishant-271/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nishant-271/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/Nishant-271/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1972-rotating-the-box](https://github.com/Nishant-271/LeetCode/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nishant-271/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-271/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nishant-271/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nishant-271/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Nishant-271/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0633-sum-of-square-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1972-rotating-the-box](https://github.com/Nishant-271/LeetCode/tree/master/1972-rotating-the-box) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nishant-271/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nishant-271/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Nishant-271/LeetCode/tree/master/3195-separate-black-and-white-balls) |
