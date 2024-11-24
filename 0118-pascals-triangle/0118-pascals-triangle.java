@@ -1,28 +1,27 @@
 class Solution {
-
-    public ArrayList<Integer> cal(int row){{
-        int result = 1;
-        ArrayList<Integer> nums = new ArrayList<>();
-        nums.add(result);
-
-        for(int i = 1; i < row; i++){
-            result *= row-i;
-            result /= i;
-            nums.add(result);
-        }
-
-        return nums;
-    }
-
-    }
-
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> arr = new ArrayList<>();
+    //    we will try to solve this question in n square 
+List<List<Integer>> ans=new ArrayList<>();
+  for(int i=1;i<=numRows;i++){
+    ans.add(func(i));
+  }
 
-        for(int i = 1; i <= numRows; i++){
-            arr.add(cal(i));
-        }
+return ans;
 
-        return arr;
+
     }
+public static List<Integer> func(int n){
+    int res=1; 
+    List<Integer> temp=new ArrayList<>();
+      temp.add(res);
+
+      for(int i=1;i<n;i++){
+        res=res*(n-i);
+        res=res/i;
+        temp.add(res);
+      }
+return temp;
+}
+
+
 }
