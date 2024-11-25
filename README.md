@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nishant-271/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nishant-271/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-271/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-271/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Nishant-271/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nishant-271/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nishant-271/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Nishant-271/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-271/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2486-most-frequent-even-element](https://github.com/Nishant-271/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3519-find-the-number-of-winning-players](https://github.com/Nishant-271/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Nishant-271/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-271/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishant-271/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Nishant-271/LeetCode/tree/master/0071-simplify-path) |
 | [0383-ransom-note](https://github.com/Nishant-271/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-271/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nishant-271/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nishant-271/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -429,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Nishant-271/LeetCode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Nishant-271/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-271/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1256-rank-transform-of-an-array](https://github.com/Nishant-271/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nishant-271/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -505,4 +510,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-271/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
