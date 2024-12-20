@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Nishant-271/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Nishant-271/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Nishant-271/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Nishant-271/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Nishant-271/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Nishant-271/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2755-extra-characters-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Backtracking
 |  |
