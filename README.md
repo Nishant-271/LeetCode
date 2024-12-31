@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nishant-271/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nishant-271/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nishant-271/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nishant-271/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Nishant-271/LeetCode/tree/master/1731-even-odd-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Nishant-271/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Nishant-271/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Array
 |  |
 | ------- |
