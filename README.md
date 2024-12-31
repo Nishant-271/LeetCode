@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nishant-271/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-271/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Nishant-271/LeetCode/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0933-increasing-order-search-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nishant-271/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-271/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Nishant-271/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Nishant-271/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nishant-271/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Nishant-271/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Nishant-271/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Nishant-271/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-271/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0807-custom-sort-string](https://github.com/Nishant-271/LeetCode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/Nishant-271/LeetCode/tree/master/0812-rotate-string) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nishant-271/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-271/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nishant-271/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nishant-271/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Nishant-271/LeetCode/tree/master/0113-path-sum-ii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Nishant-271/LeetCode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Nishant-271/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nishant-271/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Union Find
