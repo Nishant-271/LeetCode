@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Nishant-271/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nishant-271/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishant-271/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0665-non-decreasing-array](https://github.com/Nishant-271/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0906-walking-robot-simulation](https://github.com/Nishant-271/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-271/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nishant-271/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
