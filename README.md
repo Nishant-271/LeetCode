@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Nishant-271/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/Nishant-271/LeetCode/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/Nishant-271/LeetCode/tree/master/0724-find-pivot-index) |
+| [0898-transpose-matrix](https://github.com/Nishant-271/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Nishant-271/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-271/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nishant-271/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Nishant-271/LeetCode/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/Nishant-271/LeetCode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/Nishant-271/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nishant-271/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nishant-271/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nishant-271/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nishant-271/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Nishant-271/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/Nishant-271/LeetCode/tree/master/0898-transpose-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Nishant-271/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nishant-271/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/Nishant-271/LeetCode/tree/master/1791-richest-customer-wealth) |
