@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nishant-271/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nishant-271/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nishant-271/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Nishant-271/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-271/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/Nishant-271/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2486-most-frequent-even-element](https://github.com/Nishant-271/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nishant-271/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/Nishant-271/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nishant-271/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Nishant-271/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/Nishant-271/LeetCode/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nishant-271/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Nishant-271/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Nishant-271/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nishant-271/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Nishant-271/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nishant-271/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Indexed Tree
 |  |
