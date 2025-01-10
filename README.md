@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Nishant-271/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Nishant-271/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nishant-271/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1972-rotating-the-box](https://github.com/Nishant-271/LeetCode/tree/master/1972-rotating-the-box) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nishant-271/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nishant-271/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Nishant-271/LeetCode/tree/master/3195-separate-black-and-white-balls) |
