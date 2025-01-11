@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Nishant-271/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/Nishant-271/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Nishant-271/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Nishant-271/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Nishant-271/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/Nishant-271/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nishant-271/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Nishant-271/LeetCode/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Nishant-271/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -722,4 +724,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nishant-271/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Nishant-271/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Nishant-271/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
