@@ -1,20 +1,21 @@
-   class Solution {
+class Solution {
     public int pairSum(ListNode head) {
-   List<Integer> ll=new ArrayList<>();
-  ListNode temp=head;
-   while(temp!=null){
-    ll.add(temp.val);
-    temp=temp.next;
-   }
- 
-  int max=0;  int start=0,end=ll.size()-1;
-   while(start<end){
-       int sum=0;
-       sum+=ll.get(start)+ll.get(end);
-       max=Math.max(max,sum);
-       start++; end--;
-   }
+   Stack<Integer> st=new Stack<>();
+    ListNode temp=head;
+    int length=0;
+    while(temp!=null){
+        st.push(temp.val);
+        temp=temp.next;
+       length++;
+    }       
+  int max=0; temp=head;
+  int k=length/2;
+  while(0<k){
+   max=Math.max(max,temp.val+st.pop());
+   temp=temp.next;
+   k--;
+  }
 
 return max;
     }
- }
+}
