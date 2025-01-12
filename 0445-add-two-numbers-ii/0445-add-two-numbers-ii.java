@@ -1,39 +1,38 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-  l1=reverse(l1);
-  l2=reverse(l2);
-   int sum=0;int carry=0;
-   ListNode ans=new ListNode();
-   while(l1!=null || l2!=null){
-    if(l1!=null){
-        sum+=l1.val;
-        l1=l1.next;
-    }
-    if(l2!=null){
-        sum+=l2.val;
-        l2=l2.next;
-    }
-    ans.val=sum%10;
-    carry=sum/10;
-    ListNode newNode=new ListNode(carry);
-    newNode.next=ans;
-    ans=newNode;
-    sum=carry;
-   }
-return (carry==0)?ans.next:ans;
+//   To Not use the reverse of the linked list
+  Stack<Integer> st1=new Stack<>();
+  Stack<Integer> st2=new Stack<>();
+  while(l1!=null){
+    st1.push(l1.val);
+    l1=l1.next;
+  }
+ 
+  while(l2!=null){
+    st2.push(l2.val);
+    l2=l2.next;
+  }
 
-    }
+  int sum=0,carry=0; ListNode ans=new ListNode();
+  while(!st1.isEmpty()  ||  !st2.isEmpty()){
+     if(!st1.isEmpty()){
+        sum+=st1.peek();
+        st1.pop();
+     }           
+     if(!st2.isEmpty()){
+        sum+=st2.peek();
+        st2.pop();
+     }
 
-    public static ListNode reverse(ListNode head){
-        if(head==null || head.next==null) return head;
-        ListNode curr=head,temp=null,prev=null;
-        while(curr!=null){
-            temp=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=temp;
-        }
+  ans.val=sum%10;
+  carry=sum/10;
+  ListNode newNode =new ListNode(carry);
+  newNode.next=ans;
+  ans=newNode;
+   sum=carry;
+  }
 
-        return prev;
+   return (ans.val==0)?ans.next:ans;
+
     }
 }
