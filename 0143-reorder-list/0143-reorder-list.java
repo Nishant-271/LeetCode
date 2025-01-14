@@ -1,49 +1,33 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public void reorderList(ListNode head) {
-        //Find mid
-        ListNode slow = head;
-        ListNode fast = head.next;
+        ListNode slow=head,fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
 
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
         }
-        ListNode mid = slow;
-        //reverse 2nd half
-        ListNode curr = mid.next;
-        mid.next = null;
-        ListNode prev = null;
-        ListNode next;
 
-        while(curr != null){
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+        ListNode rev=reverse(slow);
+        ListNode curr=head;
+        while(rev.next!=null){
+            ListNode temp=curr.next;
+            ListNode temp_rev=rev.next;
+            curr.next=rev;
+            rev.next=temp;
+            curr=temp;
+            rev=temp_rev;
         }
-        ListNode left = head;
-        ListNode right = prev;
-        ListNode nextl , nextr;
 
-        //alternate merge - zig zag merge
-        while(left != null && right != null){
-            nextl = left.next;
-            left.next = right;
-            nextr = right.next;
-            right.next = nextl;
-
-            left = nextl;
-            right = nextr;
+    }
+    public static ListNode reverse(ListNode head){
+        if(head==null || head.next==null) return head;
+        ListNode curr=head,temp=null,prev=null;
+        while(curr!=null){
+            temp=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=temp;
         }
+        return prev;
     }
 }
