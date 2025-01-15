@@ -1,33 +1,49 @@
 class Solution {
-    public boolean isBipartite(int[][] graph) {
-        int V=graph.length;
-        int color[]=new int[V];
-        for(int i=0;i<V;i++){
-            color[i]=-1;
-        }
-        int currentcolor=1;
-        for(int u=0;u<V;u++){
-            if(color[u]==-1){
-                if(bfs(graph,u,color,currentcolor)==false) return false;
-            }
-        }
-    return true;
+
+  class Pair{
+    int v; int d;
+    public Pair(int v,int d){
+        this.v=v;
+        this.d=d;
     }
-    public static boolean bfs(int[][]graph,int node,int[]color,int currentcolor){
-        Queue<Integer> q=new LinkedList<>();
-        q.add(node);
-        color[node]=currentcolor;
+  }
+
+    public boolean isBipartite(int[][] graph) {
+        Queue<Pair> q=new LinkedList<>();
+        HashMap<Integer,Integer> visited=new HashMap<>();
+       for(int v=0;v<graph.length;v++){
+       
+       if(visited.containsKey(v)){
+        continue;
+       }
+       q.add(new Pair(v,0));
+       
+        // bfs
+       
         while(!q.isEmpty()){
-            int u=q.remove();
-            for(int v:graph[u]){
-                if(color[v]==color[u]) return false;
-                if(color[v]==-1){
-                    // usko diffrent color deke q me daal dunga 
-                    color[v]=1-color[u];
-                    q.add(v);
+            // 1. Remove
+            Pair rp=q.poll();        
+            // 2.Ignore
+            if(visited.containsKey(rp.v)){
+                if(visited.get(rp.v)!=rp.d){
+                    return false;
                 }
+                continue;
             }
+            // 3.Add Visited
+            visited.put(rp.v,rp.d);
+            // 5. Add unVisited nbrs
+                for(int nbr:graph[rp.v]){
+                    if(!visited.containsKey(nbr)){
+                        q.add(new Pair(nbr,rp.d+1));
+                    }
+                }
+
+       
+
         }
- return true;
+       }
+
+return true;
     }
 }
