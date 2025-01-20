@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nishant-271/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nishant-271/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nishant-271/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishant-271/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nishant-271/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nishant-271/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-271/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nishant-271/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nishant-271/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishant-271/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Nishant-271/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nishant-271/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Nishant-271/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Nishant-271/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/Nishant-271/LeetCode/tree/master/1972-rotating-the-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nishant-271/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishant-271/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-271/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nishant-271/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
