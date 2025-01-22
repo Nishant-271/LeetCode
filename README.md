@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nishant-271/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Nishant-271/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Nishant-271/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nishant-271/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nishant-271/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nishant-271/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nishant-271/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Nishant-271/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Nishant-271/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Nishant-271/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nishant-271/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-271/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Nishant-271/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Nishant-271/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-271/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Nishant-271/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
