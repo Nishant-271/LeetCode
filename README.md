@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Nishant-271/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Nishant-271/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Nishant-271/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Nishant-271/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Divide and Conquer
 |  |
 | ------- |
