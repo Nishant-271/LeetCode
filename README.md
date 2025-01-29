@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nishant-271/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Nishant-271/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Nishant-271/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/Nishant-271/LeetCode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Nishant-271/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Nishant-271/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Nishant-271/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Nishant-271/LeetCode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Nishant-271/LeetCode/tree/master/0343-integer-break) |
+| [0397-integer-replacement](https://github.com/Nishant-271/LeetCode/tree/master/0397-integer-replacement) |
 | [1086-divisor-game](https://github.com/Nishant-271/LeetCode/tree/master/1086-divisor-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Nishant-271/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Nishant-271/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nishant-271/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Nishant-271/LeetCode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Nishant-271/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0397-integer-replacement](https://github.com/Nishant-271/LeetCode/tree/master/0397-integer-replacement) |
 | [0605-can-place-flowers](https://github.com/Nishant-271/LeetCode/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/Nishant-271/LeetCode/tree/master/0670-maximum-swap) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Nishant-271/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Nishant-271/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/Nishant-271/LeetCode/tree/master/0397-integer-replacement) |
 ## Rolling Hash
 |  |
 | ------- |
