@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nishant-271/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/Nishant-271/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nishant-271/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Nishant-271/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Nishant-271/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/Nishant-271/LeetCode/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Nishant-271/LeetCode/tree/master/2755-extra-characters-in-a-string) |
