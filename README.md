@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Nishant-271/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Nishant-271/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nishant-271/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nishant-271/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Nishant-271/LeetCode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nishant-271/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/Nishant-271/LeetCode/tree/master/3519-find-the-number-of-winning-players) |
