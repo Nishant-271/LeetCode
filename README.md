@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Nishant-271/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nishant-271/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant-271/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nishant-271/LeetCode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Nishant-271/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Nishant-271/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/Nishant-271/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nishant-271/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant-271/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/Nishant-271/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Nishant-271/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nishant-271/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Nishant-271/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nishant-271/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Nishant-271/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nishant-271/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Nishant-271/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Nishant-271/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Nishant-271/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
