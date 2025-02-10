@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Nishant-271/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Nishant-271/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nishant-271/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/Nishant-271/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/Nishant-271/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Nishant-271/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nishant-271/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Nishant-271/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/Nishant-271/LeetCode/tree/master/3396-valid-word) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nishant-271/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/Nishant-271/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Nishant-271/LeetCode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Nishant-271/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3533-snake-in-matrix](https://github.com/Nishant-271/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-271/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Nishant-271/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3447-clear-digits](https://github.com/Nishant-271/LeetCode/tree/master/3447-clear-digits) |
 ## Topological Sort
 |  |
 | ------- |
