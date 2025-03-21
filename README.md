@@ -875,4 +875,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Nishant-271/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/Nishant-271/LeetCode/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
